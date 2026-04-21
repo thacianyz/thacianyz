@@ -44,5 +44,5 @@
 ---
 
 <div align="center">
-  <i>""</i>
+  <i></i>
 </div>
