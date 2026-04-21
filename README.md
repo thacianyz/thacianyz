@@ -29,20 +29,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thacianyz&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Me encontre
 <p align="center">
-  <a href="https://instagram.com/SEU_INSTA">Instagram</a> •
-  <a href="mailto:SEU_EMAIL">Email</a> •
-  <a href="https://github.com/SEU_USUARIO">GitHub</a>
+  <a href="https://instagram.com/thacyz">Instagram</a> •
+  <a href="mailto:t.braz@aluno.ifsp.edu.br">Email</a> •
+  <a href="https://github.com/thacianyz">GitHub</a>
 </p>
 
 ---
 
 <div align="center">
-  <i>"Sempre evoluindo um commit por vez."</i>
+  <i>""</i>
 </div>
