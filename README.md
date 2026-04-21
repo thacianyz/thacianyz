@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>👩‍💻 Olá, eu sou a Thaciany</h1>
-  <p><strong>Estudante de ADS | Desenvolvimento | Projetos com Arduino</strong></p>
+  <p><strong>Estudante de ADS</strong></p>
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 
@@ -11,7 +11,6 @@
 
 ### 💫 Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🔧 Faço projetos com Arduino (sensores, automação, etc.)  
 - 📚 Sempre aprendendo algo novo em programação  
 - 🚀 Buscando evolução na área de tecnologia  
 
