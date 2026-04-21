@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thacianyz/thacianyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>👩‍💻 Olá, eu sou a Thaciany</h1>
+  <p><strong>Estudante de ADS | Desenvolvimento | Projetos com Arduino</strong></p>
 
-Here are some ideas to get you started:
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 💫 Sobre mim
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🔧 Faço projetos com Arduino (sensores, automação, etc.)  
+- 📚 Sempre aprendendo algo novo em programação  
+- 🚀 Buscando evolução na área de tecnologia  
+
+---
+
+### 🛠️ Tecnologias que uso
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Me encontre
+<p align="center">
+  <a href="https://instagram.com/SEU_INSTA">Instagram</a> •
+  <a href="mailto:SEU_EMAIL">Email</a> •
+  <a href="https://github.com/SEU_USUARIO">GitHub</a>
+</p>
+
+---
+
+<div align="center">
+  <i>"Sempre evoluindo um commit por vez."</i>
+</div>
